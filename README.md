@@ -618,7 +618,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br>
 &nbsp;&nbsp; <a href="http://zorexeye.com/"><b>zorexeye</b></a> - search for sites, images, apps, softwares & more.<br>
 &nbsp;&nbsp; <a href="https://www.mmnt.net/"><b>Mamont's open FTP Index</b></a> - if a target has an open FTP site with accessible content it will be listed here.<br>
-&nbsp;&nbsp; <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focused on gathering information from free tools or resources.<br>
+&nbsp;&nbsp; <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focusd on gathering information from free tools or resources.<br>
 &nbsp;&nbsp; <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts.<br>
 &nbsp;&nbsp; <a href="https://leakedsource.ru/main/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
 &nbsp;&nbsp; <a href="https://search.weleakinfo.com/"><b>We Leak Info</b></a> - to help everyday individuals secure their online life, avoiding getting hacked.<br>
@@ -720,7 +720,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.parrotsec.org/"><b>Parrot Security OS</b></a> - cyber security GNU/Linux environment.<br>
 &nbsp;&nbsp; <a href="https://www.backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
 &nbsp;&nbsp; <a href="https://blackarch.org/"><b>BlackArch</b></a> - is an Arch Linux-based penetration testing distribution for penetration testers.<br>
-&nbsp;&nbsp; <a href="https://www.pentoo.ch/"><b>Pentoo</b></a> - is a security-focused livecd based on Gentoo.<br>
+&nbsp;&nbsp; <a href="https://www.pentoo.ch/"><b>Pentoo</b></a> - is a security-focusd livecd based on Gentoo.<br>
 &nbsp;&nbsp; <a href="https://securityonion.net/"><b>Security Onion</b></a> - Linux distro for intrusion detection, enterprise security monitoring, and log management.<br>
 &nbsp;&nbsp; <a href="https://tails.boum.org/"><b>Tails</b></a> - is a live system that aims to preserve your privacy and anonymity.<br>
 &nbsp;&nbsp; <a href="https://github.com/vedetta-com/vedetta"><b>vedetta</b></a> - OpenBSD router boilerplate.<br>
@@ -935,14 +935,14 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Web Apps
 
 <p>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/Main_Page"><b>OWASP</b></a> - worldwide not-for-profit charitable organization focused on improving the security of software.<br>
+&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/Main_Page"><b>OWASP</b></a> - worldwide not-for-profit charitable organization focusd on improving the security of software.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project"><b>OWASP ASVS 3.0.1</b></a> - OWASP Application Security Verification Standard Project.<br>
 &nbsp;&nbsp; <a href="https://github.com/Santandersecurityresearch/asvs"><b>OWASP ASVS 3.0.1 Web App</b></a> - simple web app that helps developers understand the ASVS requirements.<br>
 &nbsp;&nbsp; <a href="https://github.com/OWASP/ASVS/tree/master/4.0"><b>OWASP ASVS 4.0</b></a> - is a list of application security requirements or tests.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Testing_Project"><b>OWASP Testing Guide v4</b></a> - includes a "best practice" penetration testing framework.<br>
 &nbsp;&nbsp; <a href="https://github.com/OWASP/DevGuide"><b>OWASP Dev Guide</b></a> - this is the development version of the OWASP Developer Guide.<br>
 &nbsp;&nbsp; <a href="https://github.com/OWASP/wstg"><b>OWASP WSTG</b></a> - is a comprehensive open source guide to testing the security of web apps.<br>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_API_Security_Project"><b>OWASP API Security Project</b></a> - focuses specifically on the top ten vulnerabilities in API security.<br>
+&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_API_Security_Project"><b>OWASP API Security Project</b></a> - focuss specifically on the top ten vulnerabilities in API security.<br>
 &nbsp;&nbsp; <a href="https://infosec.mozilla.org/guidelines/web_security.html"><b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
 &nbsp;&nbsp; <a href="https://github.com/Netflix/security-bulletins"><b>security-bulletins</b></a> - security bulletins that relate to Netflix Open Source.<br>
 &nbsp;&nbsp; <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a> - security countermeasures when designing, testing, and releasing your API.<br>
@@ -987,7 +987,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - like dtrace's don't really provide methods to see what programs are blocking on.<br>
 &nbsp;&nbsp; <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"><b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
 &nbsp;&nbsp; <a href="https://drawings.jvns.ca/"><b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
-&nbsp;&nbsp; <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a> - this great repository is focused on hash collisions exploitation.<br>
+&nbsp;&nbsp; <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a> - this great repository is focusd on hash collisions exploitation.<br>
 &nbsp;&nbsp; <a href="https://github.com/in3rsha/sha256-animation"><b>sha256-animation</b></a> - animation of the SHA-256 hash function in your terminal.<br>
 &nbsp;&nbsp; <a href="https://sha256algorithm.com/"><b>sha256algorithm</b></a> - sha256 algorithm explained online step by step visually.<br>
 &nbsp;&nbsp; <a href="https://labs.ripe.net/Members/cteusche/bgp-meets-cat"><b>BGP Meets Cat</b></a> - after 3072 hours of manipulating BGP, Job Snijders has succeeded in drawing a Nyancat.<br>
@@ -1188,9 +1188,9 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/joe_carson"><b>@joe_carson</b></a> - an InfoSec Professional and Tech Geek.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/mikko"><b>@mikko</b></a> - CRO at F-Secure, Reverse Engineer, TED Speaker, Supervillain.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/esrtweet"><b>@esrtweet</b></a> - often referred to as ESR, is an American software developer, and open-source software advocate.<br>
-&nbsp;&nbsp; <a href="https://twitter.com/gynvael"><b>@gynvael</b></a> - security researcher/programmer, @DragonSectorCTF founder/player, technical streamer.<br>
+&nbsp;&nbsp; <a href="https://twitter.com/gynvael"><b>@gynvael</b></a> - security researcher/programmar, @DragonSectorCTF founder/player, technical streamer.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/x0rz"><b>@x0rz</b></a> - Security Researcher & Cyber Observer.<br>
-&nbsp;&nbsp; <a href="https://twitter.com/hasherezade"><b>@hasherezade</b></a> - programmer, malware analyst. Author of PEbear, PEsieve, libPeConv.<br>
+&nbsp;&nbsp; <a href="https://twitter.com/hasherezade"><b>@hasherezade</b></a> - programmar, malware analyst. Author of PEbear, PEsieve, libPeConv.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/TinkerSec"><b>@TinkerSec</b></a> - tinkerer, cypherpunk, hacker.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/alisaesage"><b>@alisaesage</b></a> - independent hacker and researcher.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/SwiftOnSecurity"><b>@SwiftOnSecurity</b></a> - systems security, industrial safety, sysadmin, author of decentsecurity.com.<br>
@@ -1210,7 +1210,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/Malwarebytes"><b>@Malwarebytes</b></a> - most trusted security company. Unmatched threat visibility.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/sansforensics"><b>@sansforensics</b></a> - the world's leading Digital Forensics and Incident Response provider.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/attcyber"><b>@attcyber</b></a> - AT&T Cybersecurity’s Edge-to-Edge technologies provide threat intelligence, and more.<br>
-&nbsp;&nbsp; <a href="https://twitter.com/TheManyHatsClub"><b>@TheManyHatsClub</b></a> - an information security focused podcast and group of individuals from all walks of life.<br>
+&nbsp;&nbsp; <a href="https://twitter.com/TheManyHatsClub"><b>@TheManyHatsClub</b></a> - an information security focusd podcast and group of individuals from all walks of life.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/hedgehogsec"><b>@hedgehogsec</b></a> - Hedgehog Cyber. Gibraltar and Manchester's top boutique information security firm.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/NCSC"><b>@NCSC</b></a> - the National Cyber Security Centre. Helping to make the UK the safest place to live and work online.<br>
 &nbsp;&nbsp; <a href="https://twitter.com/Synacktiv"><b>@Synacktiv</b></a> - IT security experts.<br>
@@ -1399,7 +1399,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/appsecco/dvna"><b>dvna</b></a> - damn vulnerable NodeJS application.<br>
 &nbsp;&nbsp; <a href="https://github.com/DefectDojo/django-DefectDojo"><b>django-DefectDojo</b></a> - is an open-source application vulnerability correlation and security orchestration tool.<br>
 &nbsp;&nbsp; <a href="https://google-gruyere.appspot.com/"><b>Google Gruyere</b></a> - web application exploits and defenses.<br>
-&nbsp;&nbsp; <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
+&nbsp;&nbsp; <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a> - is a playground focusd on learning the exploitation of client-side web vulnerabilities.<br>
 &nbsp;&nbsp; <a href="https://websploit.h4cker.org/"><b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
 &nbsp;&nbsp; <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a> - pre-built Vulnerable Environments based on docker-compose.<br>
 &nbsp;&nbsp; <a href="https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/"><b>CloudGoat 2</b></a> - the new & improved "Vulnerable by Design"
@@ -1763,7 +1763,7 @@ some_command > >(/bin/cmd_for_stdout) 2> >(/bin/cmd_for_stderr)
 history | \
 awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | \
 grep -v "./" | \
-column -c3 -s " " -t | \
+columnn -c3 -s " " -t | \
 sort -nr | nl |  head -n 20
 ```
 
@@ -1990,7 +1990,7 @@ lsof -Pnl -i
 ###### Show open ports (LISTEN)
 
 ```bash
-lsof -Pni4 | grep LISTEN | column -t
+lsof -Pni4 | grep LISTEN | columnn -t
 ```
 
 ###### List all files opened by a particular command
@@ -2010,7 +2010,7 @@ lsof -u username -a +D /etc
 ```bash
 lsof / | \
 awk '{ if($7 > 1048576) print $7/1048576 "MB" " " $9 " " $1 }' | \
-sort -n -u | tail | column -t
+sort -n -u | tail | columnn -t
 ```
 
 ###### Show current working directory of a process
@@ -2339,7 +2339,7 @@ Usefull `vimdiff` commands:
 
 * `qa` to exit all windows
 * `:vertical resize 70` to resize window
-* set window width `Ctrl+W [N columns]+(Shift+)<\>`
+* set window width `Ctrl+W [N columnns]+(Shift+)<\>`
 
 ___
 
@@ -2544,7 +2544,7 @@ ___
 
 ##### Tool: [inotifywait](https://en.wikipedia.org/wiki/GNU_Screen)
 
-###### Init tool everytime a file in a directory is modified
+###### Init tool every time a file in a directory is modified
 
 ```bash
 while true ; do inotifywait -r -e MODIFY dir/ && ls dir/ ; done;
@@ -4066,7 +4066,7 @@ awk '!/foo/' filename
 awk '/foo/{print FNR,$0}' filename
 ```
 
-###### Print the last column
+###### Print the last columnn
 
 ```bash
 awk '{print $NF}' filename
@@ -4115,7 +4115,7 @@ awk '/foo/{i=5+1;}{if(i){i--; print;}}' filename
 awk '/server {/,/}/' filename
 ```
 
-###### Print multiple columns with separators
+###### Print multiple columnns with separators
 
 ```bash
 awk -F' ' '{print "ip:\t" $2 "\n port:\t" $3' filename
@@ -4155,7 +4155,7 @@ awk 'a !~ $0{print}; {a=$0}' filename
 awk '!x[$0]++' filename
 ```
 
-###### Exclude multiple columns
+###### Exclude multiple columnns
 
 ```bash
 awk '{$1=$3=""}1' filename
